@@ -1,0 +1,66 @@
+﻿// Basic profile template for AFP Data
+
+// General/Job settings
+TYPE                = AFP
+SET                 = E:\Hackathon\Source_Code\Emtex\HACKATHON_VIS_IMP.SET
+VIPFILE             = HACK_AFP
+HOSTJOBNAME         = AFPdata     // for JobQ and account file
+
+
+// Input settings
+//INPUT               = AFP2VDD
+INPUT               = PDF2VDD
+TYPE=PDF
+
+DATATYPE            = DISK
+DATASOURCE          = E:\Hackathon\Source_Code\DOC1\BRAILLE.PDF
+
+// DEFAULT NATIVE FONT = <font-name> // if data calls default font
+//FORMDEF             = F1G1DFLT
+// PAGEDEF             = P1G1DFLT //P1DFAULT
+
+//RECTYPE = AFPDS
+//DATACODE = EBCDIC
+
+
+
+// following define AFP input data structure
+//CONTROL_COL          = MACHINE // ANSI
+//DATACODE            = ASCII
+//RECTYPE             = AFPDS
+//TRC                 = YES
+
+// Output settings
+//OUTPUT              = viewer
+
+
+
+_OUT_DIR=E:\Hackathon\Source_Code\Emtex
+_OUT_EXT=PDF
+//OUTPUT_FILE_NAME=PDFOutput // Helloc360
+//OUTPUT_TYPE=FILE
+
+
+VDEINPUTSOURCE=E:\Hackathon\Source_Code\Emtex\VISUAL_IMP.vde
+VDEINPUTPARENT=PARENT_INPUT
+
+OUTPUTPROFILE1=E:\Hackathon\Source_Code\Emtex\HACK_VIS_IMP_OUTPUT_BRAILLE.PRF
+OUTPUTPROFILE2=E:\Hackathon\Source_Code\Emtex\HACK_VIS_IMP_OUTPUT_ENGLISH.PRF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
