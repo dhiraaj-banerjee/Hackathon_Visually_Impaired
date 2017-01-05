@@ -1,0 +1,107 @@
+SET file created by Job Builder for administrator
+// The directory in which the Virtual Device Data and VDX files reside.
+VDDP = USERPATH:\VIRTUALS\VDD
+// The directory in which the Virtual Device Data and VDX files reside from the point of view of the VIPExec.
+VDDX = USERPATH:\VIRTUALS\VDD
+// Directory in which the Virtual Device Font files reside from the point of view of the input filter and output driver.
+VDFP = USERPATH:\VIRTUALS\VDR
+// The file name extension of the Virtual Fonts.
+VDFE = VDF
+// The directory in which the Virtual Device Image files reside from the point of view of the input filter and output driver.
+VDIP = USERPATH:\VIRTUALS\VDR
+// The file name extension of the Virtual Images.
+VDIE = VDI
+// The directory in which the Virtual Overlays reside from the point of view of the input filter and output driver.
+VDOP = USERPATH:\VIRTUALS\VDR
+// The file name extension of the Virtual Overlays.
+VDOE = VDO
+// The directory on disk in which the object containers reside.
+AOCP = USERPATH:\AFP-IN
+// The directory of the virtuals for the TrueType fonts Object Containers.
+AOTTFP = USERPATH:\
+// The directory for the virtuals for the PDF Object Container.
+APDFP = USERPATH:\
+// Virtual Font Substitution Path
+VDFSUBP = USERPATH:\VIRTUALS\VDRSUB
+// Virtual Font Substitution Extension
+VDFSUBE = VDF
+// Virtual Image Substitution Path
+VDISUBP = USERPATH:\VIRTUALS\VDRSUB
+// Virtual Image Substitution Extension
+VDISUBE = VDI
+// Virtual Overlay Substitution Path
+VDOSUBP = USERPATH:\VIRTUALS\VDRSUB
+// Virtual Overlay SubstitutionExtension
+VDOSUBE = VDO
+// Virtual Font 300 Substitution Path
+VDFSUB300P = USERPATH:\VIRTUALS\VDRSUB300
+// Virtual Font 300 Substitution Extension
+VDFSUB300E = VDF
+// Virtual Image 300 Substitution Path
+VDISUB300P = USERPATH:\VIRTUALS\VDRSUB300
+// The file name extension of the substituted 300dpi Virtual Images.
+VDISUB300E = VDI
+// Virtual Overlay 300 Substitution Path
+VDOSUB300P = USERPATH:\VIRTUALS\VDRSUB300
+// Virtual Overlay 300 SubstitutionExtension
+VDOSUB300E = VDO
+// The directory in which the Source Data resides when from disk.
+ADTAP = USERPATH:\AFP-IN\DTA
+// The extension of the Source Data when from disk.
+ADTAE = DTA
+// The directory in which the AFP Form Definitions reside.
+AFDEFP = USERPATH:\AFP-IN\DEFLIB
+// The extension of the AFP Form Definitions.
+AFDEFE = OBJ
+// The directory in which the AFP Form Definitions reside.
+APDEFP = USERPATH:\AFP-IN\DEFLIB
+// The extension of the AFP Page Definitions.
+APDEFE = OBJ
+// The directory in which AFP Coded Fonts reside.
+ACDFP = USERPATH:\AFP-IN\AFNT300;USERPATH:\AFP-IN\AFNT
+// The extension of the AFP Coded Fonts.
+ACDFE = CDF
+// The directory in which the AFP Font Code Pages reside.
+ACDPP = USERPATH:\AFP-IN\AFNT300;USERPATH:\AFP-IN\AFNT
+// The file name extension of the AFP Font Code Pages.
+ACDPE = CDP
+// The directory in which the 240 dpi AFP Font Character Sets reside.
+ACSTP = USERPATH:\AFP-IN\AFNT
+// The file name extension of the 240 dpi AFP Font Character Sets.
+ACSTE = CST
+// The directory in which the 300 dpi AFP Font Character Sets reside.
+ACST300P = USERPATH:\AFP-IN\AFNT300
+// The extension of the 300 dpi AFP Font Character Sets.
+ACST300E = CST
+// The directory in which the 240 dpi AFP Overlays reside.
+AOVRP = USERPATH:\AFP-IN\OVR
+// The extension of the 240 dpi AFP Overlays.
+AOVRE = OVR
+// The directory in which the 300 dpi AFP Overlays reside.
+AOVR300P = USERPATH:\AFP-IN\OVR300
+// The extension of the 300 dpi AFP Overlays.
+AOVR300E = OVR
+// The directory in which the 240 dpi AFP Segments reside.
+APSGP = USERPATH:\AFP-IN\PSG
+// The extension of the 240 dpi AFP Page Segments.
+APSGE = PSG
+// The directory in which the 300 dpi AFP Segments reside.
+APSG300P = USERPATH:\AFP-IN\PSG300
+// The extension of the 300 dpi AFP Page Segments.
+APSG300E = PSG
+// The directory for the virtuals for the JPEG Object Container.
+AJPEGP = USERPATH:\
+// The directory in which the virtuals for the TIFF Object Container are stored.
+ATIFFP = USERPATH:\
+// The default output directory path to which TIFF bitmap files are written.
+BMPP = USERPATH:\TIFF-OUT
+// The extension of the BMP files created when creating TIFF.
+BMPE = BMP
+// The default output directory path to which TIFF output is written.
+TEXTP = USERPATH:\TIFF-OUT
+// The extension of the text files created when indexing.TIFF.
+TEXTE = TXT
+// TIFF OUTPUT - default output directory path and extension
+TIFFP = USERPATH:\TIFF-OUT
+// The file name extension of the TIFF files.
+TIFFE = TIF
