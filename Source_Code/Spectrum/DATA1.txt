@@ -1,9 +1,0 @@
-10000111111111JACOB                                             The Gold Card                 11/29/16ADDRESS LINE 1-------------------ADDRESS LINE 2-------------------ADDRESS LINE 3-------------------ADDRESS LINE 4-------------------BRAILLE
-200004672                5000                4672                5000                300
-30000
-10000222222222ISABELLA                                          The Platinum Card             05/12/16ADDRESS LINE 1-------------------ADDRESS LINE 2-------------------ADDRESS LINE 3-------------------ADDRESS LINE 4-------------------PDF
-200009999                2000                9999                2000                100
-30000
-10000333333333ADAM                                              Pitney Bowes Cobranded Card   05/12/16ADDRESS LINE 1-------------------ADDRESS LINE 2-------------------ADDRESS LINE 3-------------------ADDRESS LINE 4-------------------BRAILLE
-2000098739               15000               98739               15000               1000
-30000

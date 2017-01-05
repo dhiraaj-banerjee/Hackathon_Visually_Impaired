@@ -1,4 +1,0 @@
-AccountNumber,Account Name,CardType,Date,Address Line1,AddressLine2,Address Line3,AddressLine4,OutputType
-111111111,JACOB,The Gold Card,11/29/16,ADDRESS LINE 1-------------------,ADDRESS LINE 2-------------------,ADDRESS LINE 3-------------------,ADDRESS LINE 4-------------------,BRAILLE
-222222222,ISABELLA,The Platinum Card,05/12/16,ADDRESS LINE 1-------------------,ADDRESS LINE 2-------------------,ADDRESS LINE 3-------------------,ADDRESS LINE 4-------------------,PDF
-333333333,ADAM,Pitney Bowes Cobranded Card,05/12/16,ADDRESS LINE 1-------------------,ADDRESS LINE 2-------------------,ADDRESS LINE 3-------------------,ADDRESS LINE 4-------------------,BRAILLE

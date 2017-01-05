@@ -1,4 +1,0 @@
-
-
-
-https://preprod.rtcvid.net/test_dhiraaj_poc2/embed-iframe.php?uid=<UID>
